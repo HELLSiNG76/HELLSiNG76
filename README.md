@@ -1,7 +1,11 @@
 # Hi there, I'm Kartik Krishna 👋
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HELLSING76&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HELLSING76&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<div align="left">
+  <a href="https://linkedin.com/in/kartikkrishna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:kartikkrishna321@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 **Backend Software Engineer - Applied AI | Node.js | RAG | LLMs**
