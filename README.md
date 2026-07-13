@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Backend+Software+Engineer;Applied+AI+%26+RAG+Developer;Microservices+%7C+Docker+%7C+Node.js" alt="Typing SVG" />
+</div>
 # Hi there, I'm Kartik Krishna 👋
 <div align="left">
   <a href="https://linkedin.com/in/kartikkrishna" target="_blank">
@@ -23,7 +26,10 @@ I am a Backend Software Engineer with hands-on experience developing scalable RE
 ---
 
 ### 🛠️ Technical Arsenal
-
+<div align="center">
+  <h3>🛠️ Tech Stack</h3>
+  <img src="https://skillicons.dev/icons?i=js,nodejs,express,mysql,redis,docker,java,postman,github,linux&theme=dark" alt="Tech Stack Icons" />
+</div>
 **Languages:** 
 `JavaScript`, `Java`, `SQL`, `HTML5`, `CSS3`
 
@@ -68,6 +74,7 @@ I am a Backend Software Engineer with hands-on experience developing scalable RE
 * **Smart India Hackathon (SIH) 2023** - Finalist
 
 ---
+
 
 ### 📫 Connect with me
 
