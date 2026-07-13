@@ -47,15 +47,15 @@ I am a Backend Software Engineer with hands-on experience developing scalable RE
 *Architected a microservices-based backend using Node.js, RabbitMQ, Redis, and Docker to automate customer support workflows via RAG*. 
 * Indexed 500+ support documents using vector embeddings and reduced API response time by ~25% through Redis caching under concurrent-load simulations.
 
-#### 📝 [Real-Time Collaboration Platform](https://github.com/HELLSING76/collaboration-platform)
+#### 📝 [Real-Time Collaboration Platform](https://github.com/HELLSiNG76/Real-Time-Collaboration-Platform)
 *Built a real-time platform supporting 15+ concurrent users synchronizing shared data over WebSocket channels*.
 * Designed a normalized MySQL schema with Prisma ORM, implemented RBAC, and tuned query execution to reduce response latency by ~20%.
 
-#### 🖼️ [Asynchronous Media Processing Pipeline](https://github.com/HELLSING76/media-processing-pipeline)
+#### 🖼️ [Asynchronous Media Processing Pipeline](https://github.com/HELLSiNG76/ASYNC-MEDIA-PROCESSING-PIPELINE)
 *Engineered a pipeline that offloads compute-intensive OpenCV image-analysis tasks to background worker services using RabbitMQ*. 
 * Cut request-blocking time by ~35% while sustaining stable throughput against 100+ image files.
 
-#### 🔍 AI Code Review Assistant
+#### 🔍 [AI Code Review Assistant](https://github.com/HELLSiNG76/AI-Code-Review-Agent-Assisstant)
 *Developed an AI-assisted tool analyzing GitHub pull requests via webhooks and LLM-based inference*.
 * Generated automated feedback on security and performance, reducing manual review effort by ~30%.
 
